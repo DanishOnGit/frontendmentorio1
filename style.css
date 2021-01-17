@@ -31,11 +31,11 @@ body{
 }
 .card-middle {
     position: relative;
-    bottom: 7px;
+    bottom: 6.5px;
     text-align: center;
     height: 37%;
     background-color: white;
-    border-bottom: 1px solid var(--Dark-grayish-blue);
+    border-bottom: 1px solid rgba(202, 200, 200, 0.322);
 }
 .profile-pic{
     position: relative;
